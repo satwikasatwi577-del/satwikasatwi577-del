@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Satwika 👋
 
-<!--
-**satwikasatwi577-del/satwikasatwi577-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at MIT Manipal
 
-Here are some ideas to get you started:
+🤖 Aspiring AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Python | C | DSA | Machine Learning | GenAI
+
+## 🚀 About Me
+
+I'm a Computer Science student building strong foundations in programming, software engineering, and artificial intelligence.
+
+## 🛠️ Currently Learning
+
+- Python
+- C
+- Data Structures & Algorithms
+- Git & GitHub
+- SQL
+- Machine Learning
+
+## 🎯 My Goal
+
+Build real-world AI/ML projects, contribute to open source, and gain high-quality software and AI/ML internships.
+
+## 📚 2026–2029 Learning Path
+
+Python → DSA → Machine Learning → Deep Learning → GenAI → RAG → AI Agents → MLOps
+
+## 📂 Projects
+
+Projects will be added here as I build them.
+
+## 📈 Current Focus
+
+Learning consistently, building projects, solving DSA problems, and documenting my progress.
