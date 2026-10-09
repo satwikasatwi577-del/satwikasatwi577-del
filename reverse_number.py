@@ -1,3 +1,4 @@
+# find reverse number
 n = int(input("Enter a number: "))
 reverse = 0
 
